@@ -1,0 +1,15 @@
+.social-media-footer {
+    border-top: 2px solid #000;
+    text-align: center;
+    padding: 20px;
+    background-color:  rgb(84, 88, 90);
+}
+
+.footer-content a {
+    margin: 0 10px; /* Space btwn */
+}
+
+.footer-content img {
+    width: 50px; /* Size*/
+    height: auto;
+}
